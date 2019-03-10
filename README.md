@@ -22,3 +22,4 @@ Understand trend, seasonal, and cyclical behavior of time series data. Use time 
 Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model.
 
 
+![cert](https://github.com/SJG88/Predictive-Analytics-for-Business/blob/master/Certificate.pdf)
