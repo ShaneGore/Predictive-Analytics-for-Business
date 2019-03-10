@@ -1,5 +1,5 @@
 # Predictive-Analytics-for-Business
-Contains Coursework from the Udacity Nanodegree
+Contains Coursework from the Udacity Nanodegree "Predictive Analytics for Business" (formerly known as Business Analytics). This course used the tools Alteryx, Tableau and SQL.
 
 ## Problem Solving with Analytics
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression
