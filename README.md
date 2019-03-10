@@ -2,7 +2,7 @@
 
 Awarded a scholarship to undertake a Nanodegree in Predictive Analytics for Business (formerly known as Business Analytics) as part of the Bertelsmann Data Science Challenge Scholarship. The scholarship was assessed by means of a personal statement, completion of a challenge course, peer engagement and a final exam. Of over 32,000 original applicants I was one of less than 5%, who achieved a scholarship to pursue this course.
 
-The challenge course consisted of an [introduction to python](https://eu.udacity.com/course/introduction-to-python--ud1110), an [introduction to descriptive statistics](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827) and SQL.
+The challenge course consisted of an [introduction to python](https://eu.udacity.com/course/introduction-to-python--ud1110), an [introduction to descriptive statistics](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827) and [SQL for data analysis](https://eu.udacity.com/course/sql-for-data-analysis--ud198).
 
 The Nanodegree in [Predictive Analytics for Business](https://www.udacity.com/course/business-analyst-nanodegree--nd008-ent)
  utilised the tools Alteryx, Tableau and SQL. 
