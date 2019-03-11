@@ -9,8 +9,12 @@ The Nanodegree in [Predictive Analytics for Business](https://www.udacity.com/co
 
 ![cert](https://github.com/SJG88/Predictive-Analytics-for-Business/blob/master/Certificate.jpg)
 
-## Problem Solving with Analytics
+## [Problem Solving with Analytics](https://eu.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression
+
+Project: [Predicting Catalog Demand](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Problem%20Solving%20with%20Analytics)
+
+A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, you will use the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
 
 ## Data Wrangling
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database. 
