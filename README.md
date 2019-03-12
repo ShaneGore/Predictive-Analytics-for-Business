@@ -66,4 +66,4 @@ Aims: Understand the difference between localization, standardization, and segme
 
 Tools: Alteryx, Tableau
 
-
+Project: [Capstone Project - Combining Predictive Techniques](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Capstone%20Project)
