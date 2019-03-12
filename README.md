@@ -34,7 +34,7 @@ Aims: Learn the fundamentals of data visualization and practice communicating wi
 
 Tools: Tableau
 
-Project: Visualize Movie Data
+Project: [Visualize Movie Data](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Data%20Visualization)
 
 ## [Classification Models](https://eu.udacity.com/course/classification-models--ud978)
 
