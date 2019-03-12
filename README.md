@@ -17,25 +17,25 @@ Project: [Predicting Catalog Demand](https://github.com/SJG88/Predictive-Analyti
 
 A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, you will use the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
 
-## Data Wrangling
+## [Data Wrangling](https://eu.udacity.com/course/creating-an-analytical-dataset--ud977)
 
 Aims: Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database. 
 
-## Data Visualization
+## [Data Visualization](https://eu.udacity.com/course/data-visualization-in-tableau--ud1006)
 
-## Classification Models
+## [Classification Models](https://eu.udacity.com/course/classification-models--ud978)
 
 Aims: Learn to use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
 
-## A/B Testing
+## [A/B Testing](https://eu.udacity.com/course/ab-testing--ud979)
 
 Aims: Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.
 
-## Time Series Forecasting
+## [Time Series Forecasting](https://eu.udacity.com/course/time-series-forecasting--ud980)
 
 Aims: Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
 
-## Segmentation and Clustering
+## [Segmentation and Clustering](https://eu.udacity.com/course/segmentation-and-clustering--ud981)
 
 Aims: Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model.
 
