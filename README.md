@@ -58,6 +58,8 @@ Aims: Understand trend, seasonal, and cyclical behavior of time series data. Use
 
 Tools: Alteryx
 
+Project: [Forecast Video Game Demand](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Time%20Series%20Forecasting)
+
 ## [Segmentation and Clustering](https://eu.udacity.com/course/segmentation-and-clustering--ud981)
 
 Aims: Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model.
