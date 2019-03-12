@@ -13,6 +13,8 @@ The Nanodegree in [Predictive Analytics for Business](https://www.udacity.com/co
 
 Aims: Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression
 
+Tools: Alteryx
+
 Project: [Predicting Catalog Demand](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Problem%20Solving%20with%20Analytics)
 
 A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, you will use the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
@@ -21,10 +23,16 @@ A jewelry company wants to put in a bid to purchase a large set of diamonds, but
 
 Aims: Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database. 
 
+Tools: Alteryx, SQL lite, MATLAB (data visualization)
+
 Project: [Create an Analytical Dataset](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Data%20Wrangling)
 Project: [Create Reports from a Database](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Data%20Wrangling)
 
 ## [Data Visualization](https://eu.udacity.com/course/data-visualization-in-tableau--ud1006)
+
+Aims: Learn the fundamentals of data visualization and practice communicating with data. This course covers how to apply design principles, human perception, color theory, and effective storytelling with data. 
+
+Tools: Tableau
 
 Project: Visualize Movie Data
 
@@ -32,16 +40,24 @@ Project: Visualize Movie Data
 
 Aims: Learn to use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
 
+Tools: Alteryx
+
 ## [A/B Testing](https://eu.udacity.com/course/ab-testing--ud979)
 
 Aims: Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.
+
+Tools: Alteryx
 
 ## [Time Series Forecasting](https://eu.udacity.com/course/time-series-forecasting--ud980)
 
 Aims: Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
 
+Tools: Alteryx
+
 ## [Segmentation and Clustering](https://eu.udacity.com/course/segmentation-and-clustering--ud981)
 
 Aims: Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model.
+
+Tools: Alteryx, Tableau
 
 
