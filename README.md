@@ -50,6 +50,8 @@ Aims: Understand the fundamentals of A/B testing, including experimental design,
 
 Tools: Alteryx
 
+Project:[AB Test a New Menu Launch](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/AB%20Testing)
+
 ## [Time Series Forecasting](https://eu.udacity.com/course/time-series-forecasting--ud980)
 
 Aims: Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
