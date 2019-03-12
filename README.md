@@ -42,6 +42,8 @@ Aims: Learn to use classification models, such as logistic regression, decision 
 
 Tools: Alteryx
 
+Project: [Predicting Default Risk](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Classification%20Models)
+
 ## [A/B Testing](https://eu.udacity.com/course/ab-testing--ud979)
 
 Aims: Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.
