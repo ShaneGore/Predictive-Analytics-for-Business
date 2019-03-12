@@ -21,7 +21,12 @@ A jewelry company wants to put in a bid to purchase a large set of diamonds, but
 
 Aims: Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database. 
 
+Project: [Create an Analytical Dataset](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Data%20Wrangling)
+Project: [Create Reports from a Database](https://github.com/SJG88/Predictive-Analytics-for-Business/tree/master/Data%20Wrangling)
+
 ## [Data Visualization](https://eu.udacity.com/course/data-visualization-in-tableau--ud1006)
+
+Project: Visualize Movie Data
 
 ## [Classification Models](https://eu.udacity.com/course/classification-models--ud978)
 
